@@ -1,0 +1,12 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "gym",
+	"webDir": "dist",
+	"packageClassList": [
+		"BluetoothLe",
+		"AppPlugin",
+		"HapticsPlugin",
+		"KeyboardPlugin",
+		"StatusBarPlugin"
+	]
+}
